@@ -3,15 +3,15 @@ body{
 }
 
 section{
-    background-color: rgb(241, 104, 104);
+    background-color: rgb(243, 127, 127);
     width: 48%;
     height: 400px;
     border-radius: 6px;
     margin-bottom: 20px;
-    box-shadow: 5px 10px rgb(241, 104, 104);
+    box-shadow: 5px 10px rgb(243, 127, 127);
     border:1px;
     border-style: solid;
-    border-color: rgb(241, 104, 104);
+    border-color: rgb(243, 127, 127);
 
 }
 
